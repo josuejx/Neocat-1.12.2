@@ -14,7 +14,7 @@ Como vemos utilizando sólo 5 lingotes de oro se puede craftear. Hay que aclarar
 
 ### Masa y Cuerpo ###
 
-Tenemos también una nueva comida en el juego con este mod, se trata del pan de la eucaristía aunque en el juego se llama _Cuerpo_ para distinguir con el _Pan_ del propio Minecraft. También se puede obtener en el modo _Survival_ horneando _Masa_.
+Tenemos también una nueva comida en el juego con este mod, se trata del pan de la eucaristía aunque en el juego se llama _Cuerpo_ para distinguir con el _Pan_ del propio Minecraft. También se puede obtener en el modo _**Survival**_ horneando _Masa_.
 
 ![image](https://user-images.githubusercontent.com/64470097/129489881-cea81fee-012a-49db-ac0f-95f0dd6f992c.png)
 
@@ -28,7 +28,7 @@ Con 8 de trigo y 1 cubo de agua (o 1 frasco de agua en su defecto) obtendremos 1
 
 ### Discos de música ###
 
-Así es, este mod también cuenta con sus propios discos de música. Estos discos para que sean fáciles de obtener y para que cualquiera pueda disfrutar de ellos, he decido hacer que sean crafteables, pensando en el modo _Survival_.
+Así es, este mod también cuenta con sus propios discos de música. Estos discos para que sean fáciles de obtener y para que cualquiera pueda disfrutar de ellos, he decido hacer que sean crafteables, pensando en el modo _**Survival**_.
 
 ![image](https://user-images.githubusercontent.com/64470097/129490208-5a1e6f6f-0270-4c15-9228-d6105ccba587.png)
 ![image](https://user-images.githubusercontent.com/64470097/129490215-07897a42-f595-4787-b6d0-dec58619326a.png)
