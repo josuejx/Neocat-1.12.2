@@ -61,5 +61,5 @@ Por ahora sólo está disponible este icono, en futuras versiones se añadirán 
 
 ### Trono ###
 
-Este bloque es el único que no se puede craftear, se debe conseguir del creativo. Actua como un mob en realidad, sólo que es inmóvil. Al colocarlo en un bloque, puedes golpearlo para cambiar su rotación. La cuarta vez que se golpee, será destruido y te será devuelto.
+Este bloque es el único que no se puede craftear, se debe conseguir del creativo. Actúa como un mob en realidad, sólo que es inmóvil. Al colocarlo en un bloque, puedes golpearlo para cambiar su rotación. La cuarta vez que se golpee, será destruido y te será devuelto.
 
