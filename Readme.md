@@ -24,7 +24,7 @@ La _Masa_ es otro item del mod que no es comestible, sólo es un paso intermedio
 ![image](https://user-images.githubusercontent.com/64470097/129490069-7fd94ea2-16e6-48fb-a8a8-9c2e15bdd78f.png)
 
 
-Con 8 de trigo y 1 cubo de agua (o 1 frasco de agua en su defecto) obtendremos 10 de _Masa_, es decir, 10 de _Cuerpo_. Cada _Cuerpo_ restaura 4 puntos de comida, quizás sea hora de olvidarse de la comida del minecraft original...
+Con 8 de trigo y 1 cubo de agua (o 1 frasco de agua en su defecto) obtendremos 10 de _Masa_, es decir, 10 de _Cuerpo_. Cada _Cuerpo_ restaura 6 puntos de comida, quizás sea hora de olvidarse de la comida del minecraft original...
 
 ### Discos de música ###
 
